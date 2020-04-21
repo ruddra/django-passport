@@ -211,6 +211,5 @@ passport/media/
 
 .ipython/
 .env
-.envs/*
 config/settings/local_settings.py
 .vscode
