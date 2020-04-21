@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/Users/arnab/Builds/passport/venv/bin/python"
+}
