@@ -1,6 +1,6 @@
 pytz==2019.3  
 python-slugify==4.0.0  
-Pillow==9.3.0  
+Pillow==10.0.1  
 argon2-cffi==19.2.0  
 whitenoise==5.0.1  
 redis==4.5.4 
